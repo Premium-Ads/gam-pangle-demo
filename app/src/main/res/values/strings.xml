@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PremiumAds Ft Pangle</string>
+    <string name="ad_unit_id" translatable="false">/75894840/app-adunit-demo/test-pangle</string>
+</resources>
